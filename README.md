@@ -1,9 +1,9 @@
 # Homebrew-pyenv
 
-This tap provides Homebrew formulae for various `pyenv` plugins not available in the core repository.
+This tap provides a Homebrew formula for the pyenv `pyenv-default-packages` plugin.
 
 ## Installing Homebrew-pyenv Formulae
-Just `brew tap jawshooah/pyenv` and then `brew install <formula>`. You only need to tap the repository once.
+Just `brew tap btrachey/pyenv` and then `brew install <formula>`. You only need to tap the repository once.
 
 Or, if you would like to install the latest development release:
 
@@ -14,7 +14,7 @@ brew install --HEAD <formula>
 You can also install via URL:
 
 ```
-brew install https://raw.githubusercontent.com/jawshooah/homebrew-pyenv/master/<formula>.rb
+brew install https://raw.githubusercontent.com/btrachey/homebrew-pyenv/master/<formula>.rb
 ```
 
 ## Troubleshooting
@@ -29,4 +29,4 @@ Second, read the [Homebrew Troubleshooting Checklist](https://github.com/Homebre
 `brew help`, `man brew` or check the [Homebrew documentation](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme).
 
 ## License
-Code is under the [MIT license](https://github.com/jawshooah/homebrew-pyenv/tree/master/LICENSE.txt).
+Code is under the [MIT license](https://github.com/btrachey/homebrew-pyenv/tree/main/LICENSE.txt).

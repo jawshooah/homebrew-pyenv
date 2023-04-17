@@ -1,7 +1,7 @@
 class PyenvDefaultPackages < Formula
-  homepage "https://github.com/jawshooah/pyenv-default-packages"
-  head "https://github.com/jawshooah/pyenv-default-packages.git"
-  url "https://github.com/jawshooah/pyenv-default-packages/archive/0.3.1.tar.gz"
+  homepage "https://github.com/btrachey/pyenv-default-packages"
+  head "https://github.com/btrachey/pyenv-default-packages.git"
+  url "https://github.com/btrachey/pyenv-default-packages/archive/0.0.1.tar.gz"
   sha256 "cb3f5f5e3e4fd55e0623b21db623c64b57bb7dcd896497ee982c08e43bd3f40a"
 
   depends_on "pyenv"
